@@ -1,0 +1,348 @@
+03.02.2023 16:19:51: |root INFO| Log started'
+03.02.2023 16:19:51: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://100.70.125.26:8080'
+03.02.2023 16:19:51: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+03.02.2023 16:19:51: |werkzeug INFO|  * Restarting with stat'
+03.02.2023 16:19:52: |root INFO| Log started'
+03.02.2023 16:19:52: |werkzeug WARNING|  * Debugger is active!'
+03.02.2023 16:19:52: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+03.02.2023 16:19:56: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:19:56] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+03.02.2023 16:20:28: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:20:28] "POST / HTTP/1.1" 200 -'
+03.02.2023 16:20:48: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:20:48] "POST / HTTP/1.1" 200 -'
+03.02.2023 16:21:36: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener.py', reloading'
+03.02.2023 16:23:02: |root INFO| Log started'
+03.02.2023 16:23:02: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://100.70.125.26:8080'
+03.02.2023 16:23:02: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+03.02.2023 16:23:02: |werkzeug INFO|  * Restarting with stat'
+03.02.2023 16:23:03: |root INFO| Log started'
+03.02.2023 16:23:03: |werkzeug WARNING|  * Debugger is active!'
+03.02.2023 16:23:03: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+03.02.2023 16:23:05: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:23:05] "POST / HTTP/1.1" 200 -'
+03.02.2023 16:24:53: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener.py', reloading'
+03.02.2023 16:27:25: |root INFO| Log started'
+03.02.2023 16:27:25: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://100.70.125.26:8080'
+03.02.2023 16:27:25: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+03.02.2023 16:27:25: |werkzeug INFO|  * Restarting with stat'
+03.02.2023 16:27:26: |root INFO| Log started'
+03.02.2023 16:27:26: |werkzeug WARNING|  * Debugger is active!'
+03.02.2023 16:27:26: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+03.02.2023 16:27:27: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:27:27] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+03.02.2023 16:28:51: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener.py', reloading'
+03.02.2023 16:28:54: |root INFO| Log started'
+03.02.2023 16:28:54: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://100.70.125.26:8080'
+03.02.2023 16:28:54: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+03.02.2023 16:28:54: |werkzeug INFO|  * Restarting with stat'
+03.02.2023 16:28:54: |root INFO| Log started'
+03.02.2023 16:28:55: |werkzeug WARNING|  * Debugger is active!'
+03.02.2023 16:28:55: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+03.02.2023 16:29:01: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:29:01] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+03.02.2023 16:29:34: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener.py', reloading'
+03.02.2023 16:29:47: |root INFO| Log started'
+03.02.2023 16:29:47: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://100.70.125.26:8080'
+03.02.2023 16:29:47: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+03.02.2023 16:29:47: |werkzeug INFO|  * Restarting with stat'
+03.02.2023 16:29:48: |root INFO| Log started'
+03.02.2023 16:29:48: |werkzeug WARNING|  * Debugger is active!'
+03.02.2023 16:29:48: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+03.02.2023 16:29:49: |werkzeug INFO| 127.0.0.1 - - [03/Feb/2023 16:29:49] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:06:40: |root INFO| Log started'
+05.02.2023 12:06:40: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:06:40: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:06:40: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:06:41: |root INFO| Log started'
+05.02.2023 12:06:41: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:06:41: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:07:43: |root INFO| Log started'
+05.02.2023 12:07:43: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:07:43: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:07:43: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:07:43: |root INFO| Log started'
+05.02.2023 12:07:43: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:07:43: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:08:28: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:08:28] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:08:50: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:08:50] "GET / HTTP/1.1" 200 -'
+05.02.2023 12:08:57: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:08:57] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:09:13: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:09:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -'
+05.02.2023 12:10:58: |root INFO| Log started'
+05.02.2023 12:10:58: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:10:58: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:10:58: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:10:58: |root INFO| Log started'
+05.02.2023 12:10:58: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:10:58: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:11:05: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:11:05] "POST / HTTP/1.1" 200 -'
+05.02.2023 12:11:35: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:11:35] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:11:38: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:11:38] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:14:01: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:14:01] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:14:03: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:14:03] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:16:48: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener\\listener.py', reloading'
+05.02.2023 12:16:48: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:16:49: |root INFO| Log started'
+05.02.2023 12:16:49: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:16:49: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:17:15: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener\\listener.py', reloading'
+05.02.2023 12:17:15: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:17:16: |root INFO| Log started'
+05.02.2023 12:17:16: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:17:16: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:18:17: |root INFO| Log started'
+05.02.2023 12:18:17: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:18:17: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:18:17: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:18:17: |root INFO| Log started'
+05.02.2023 12:18:17: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:18:17: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:18:23: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:18:23] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:20:31: |root INFO| Log started'
+05.02.2023 12:20:31: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:20:31: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:20:31: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:20:32: |root INFO| Log started'
+05.02.2023 12:20:32: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:20:32: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:20:38: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:20:38] "POST / HTTP/1.1" 200 -'
+05.02.2023 12:20:55: |root INFO| Log started'
+05.02.2023 12:20:55: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:20:55: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:20:55: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:20:56: |root INFO| Log started'
+05.02.2023 12:20:56: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:20:56: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:20:57: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:20:57] "POST / HTTP/1.1" 200 -'
+05.02.2023 12:21:23: |root INFO| Log started'
+05.02.2023 12:21:23: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:21:23: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:21:23: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:21:24: |root INFO| Log started'
+05.02.2023 12:21:24: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:21:24: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:21:26: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:21:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -'
+05.02.2023 12:21:26: |werkzeug ERROR| Error on request:
+Traceback (most recent call last):
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\serving.py", line 335, in run_wsgi
+    execute(self.server.app)
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\serving.py", line 324, in execute
+    for data in application_iter:
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\debug\__init__.py", line 335, in debug_application
+    app_iter.close()  # type: ignore
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\wsgi.py", line 504, in close
+    callback()
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\wrappers\response.py", line 441, in close
+    if hasattr(self.response, "close"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\local.py", line 316, in __get__
+    obj = instance._get_current_object()  # type: ignore[misc]
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Programs\Python3.11\Lib\site-packages\werkzeug\local.py", line 513, in _get_current_object
+    raise RuntimeError(unbound_message) from None
+RuntimeError: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request. Consult the documentation on testing for
+information about how to avoid this problem.'
+05.02.2023 12:21:45: |root INFO| Log started'
+05.02.2023 12:21:45: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:21:45: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:21:45: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:21:45: |root INFO| Log started'
+05.02.2023 12:21:45: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:21:45: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:21:48: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:21:48] "POST / HTTP/1.1" 200 -'
+05.02.2023 12:22:25: |root INFO| Log started'
+05.02.2023 12:22:25: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:22:25: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:22:25: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:22:26: |root INFO| Log started'
+05.02.2023 12:22:26: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:22:26: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:22:30: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:22:30] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:23:01: |root INFO| Log started'
+05.02.2023 12:23:01: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:23:01: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:23:01: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:23:02: |root INFO| Log started'
+05.02.2023 12:23:02: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:23:02: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:23:05: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:23:05] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:28:35: |root INFO| Log started'
+05.02.2023 12:28:35: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:28:35: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:28:35: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:28:36: |root INFO| Log started'
+05.02.2023 12:28:36: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:28:36: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:28:41: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:28:41] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:31:04: |root INFO| Log started'
+05.02.2023 12:31:04: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:31:04: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:31:04: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:31:05: |root INFO| Log started'
+05.02.2023 12:31:05: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:31:05: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:31:07: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:31:07] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 12:33:15: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener\\listener.py', reloading'
+05.02.2023 12:33:15: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:33:16: |root INFO| Log started'
+05.02.2023 12:33:16: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:33:16: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:34:50: |werkzeug INFO|  * Detected change in 'C:\\Users\\milch\\OneDrive\\Рабочий стол\\listener\\listener.py', reloading'
+05.02.2023 12:34:51: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:34:52: |root INFO| Log started'
+05.02.2023 12:34:52: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:34:52: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:35:40: |root INFO| Log started'
+05.02.2023 12:35:40: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:35:40: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:35:40: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:35:40: |root INFO| Log started'
+05.02.2023 12:35:40: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:35:40: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:35:47: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:35:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -'
+05.02.2023 12:38:07: |root INFO| Log started'
+05.02.2023 12:38:07: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:38:07: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:38:07: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:38:07: |root INFO| Log started'
+05.02.2023 12:38:08: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:38:08: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:38:10: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:38:10] "POST / HTTP/1.1" 200 -'
+05.02.2023 12:38:26: |root INFO| Log started'
+05.02.2023 12:38:26: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 12:38:26: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 12:38:26: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 12:38:26: |root INFO| Log started'
+05.02.2023 12:38:26: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 12:38:26: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 12:38:27: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 12:38:27] "POST / HTTP/1.1" 200 -'
+05.02.2023 14:35:35: |root INFO| Log started'
+05.02.2023 14:35:35: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 14:35:35: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 14:35:35: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 14:35:35: |root INFO| Log started'
+05.02.2023 14:35:36: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 14:35:36: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 14:36:55: |root INFO| Log started'
+05.02.2023 14:36:55: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 14:36:55: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 14:36:55: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 14:36:56: |root INFO| Log started'
+05.02.2023 14:36:56: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 14:36:56: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 14:37:06: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:37:06] "POST / HTTP/1.1" 200 -'
+05.02.2023 14:53:10: |root INFO| Log started'
+05.02.2023 14:53:10: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 14:53:10: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 14:53:10: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 14:53:10: |root INFO| Log started'
+05.02.2023 14:53:10: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 14:53:10: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 14:53:22: |root INFO| Produced message on topic main-rest with value of {"key": "test_post", "value": "321", "date_insert": "05.02.2023 14:53:19"}
+'
+05.02.2023 14:53:22: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:53:22] "POST / HTTP/1.1" 200 -'
+05.02.2023 14:53:30: |root INFO| Produced message on topic main-rest with value of {"date_insert": "05.02.2023 14:53:29", "code": 400, "name": "Bad Request", "description": "Did not attempt to load JSON data because the request Content-Type was not 'application/json'."}
+'
+05.02.2023 14:53:30: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:53:30] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 14:54:46: |root INFO| Produced message on topic main-rest with value of {"date_insert": "05.02.2023 14:54:45", "code": 400, "name": "Bad Request", "description": "Did not attempt to load JSON data because the request Content-Type was not 'application/json'."}
+'
+05.02.2023 14:54:46: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:54:46] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 14:54:51: |root INFO| Produced message on topic main-rest with value of {"date_insert": "05.02.2023 14:54:50", "code": 400, "name": "Bad Request", "description": "Did not attempt to load JSON data because the request Content-Type was not 'application/json'."}
+'
+05.02.2023 14:54:51: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:54:51] "[31m[1mPOST / HTTP/1.1[0m" 400 -'
+05.02.2023 14:55:03: |root INFO| Produced message on topic main-rest with value of {"key": "test_post", "value": "321", "date_insert": "05.02.2023 14:55:02"}
+'
+05.02.2023 14:55:03: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:55:03] "POST / HTTP/1.1" 200 -'
+05.02.2023 14:55:57: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:55:57] "GET / HTTP/1.1" 200 -'
+05.02.2023 14:59:38: |root INFO| Log started'
+05.02.2023 14:59:38: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 14:59:38: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 14:59:38: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 14:59:39: |root INFO| Log started'
+05.02.2023 14:59:39: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 14:59:39: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 14:59:54: |root INFO| Produced message on topic main-rest with value of {"key": "test_post", "value": "321", "date_insert": "05.02.2023 14:59:52"}
+'
+05.02.2023 14:59:54: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 14:59:54] "POST / HTTP/1.1" 200 -'
+05.02.2023 15:19:19: |root INFO| Log started'
+05.02.2023 15:19:19: |werkzeug INFO| [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.8:8080'
+05.02.2023 15:19:19: |werkzeug INFO| [33mPress CTRL+C to quit[0m'
+05.02.2023 15:19:19: |werkzeug INFO|  * Restarting with stat'
+05.02.2023 15:19:20: |root INFO| Log started'
+05.02.2023 15:19:20: |werkzeug WARNING|  * Debugger is active!'
+05.02.2023 15:19:20: |werkzeug INFO|  * Debugger PIN: 814-807-819'
+05.02.2023 15:21:23: |root INFO| Produced message on topic main-rest with value of {"key": "test_post", "value": "321", "date_insert": "05.02.2023 15:21:22"}
+'
+05.02.2023 15:21:23: |werkzeug INFO| 127.0.0.1 - - [05/Feb/2023 15:21:23] "POST / HTTP/1.1" 200 -'

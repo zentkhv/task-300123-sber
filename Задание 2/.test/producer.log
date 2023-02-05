@@ -1,0 +1,6 @@
+2023-02-05 14:25:55 Produced message on topic user-tracker with value of {"user_id": 95158, "user_name": "Jerry Evans", "user_address": "0516 Hansen Keys Apt. 231 | East Beckymouth | CG", "platform": "Tablet", "signup_at": "2023-02-02 00:02:30"}
+
+2023-02-05 14:25:59 Produced message on topic user-tracker with value of {"user_id": 94674, "user_name": "Allison Olsen", "user_address": "32917 Harris Shore | Crawfordland | LV", "platform": "Tablet", "signup_at": "2023-02-01 03:39:12"}
+
+2023-02-05 14:26:03 Produced message on topic user-tracker with value of {"user_id": 50352, "user_name": "Mark Liu", "user_address": "616 Jennifer Loaf Suite 211 | Brittanymouth | BW", "platform": "Tablet", "signup_at": "2023-02-04 17:21:08"}
+
